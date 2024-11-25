@@ -1,0 +1,4 @@
+openai-whisper
+PyPDF2
+moviepy
+ffmpeg

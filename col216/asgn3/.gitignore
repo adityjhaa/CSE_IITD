@@ -1,0 +1,5 @@
+*.o
+simulator/cacheSim
+experiment/exp
+experiment/base/test
+

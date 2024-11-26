@@ -1,10 +1,6 @@
-# IITD CSE
-
-This is a collection of resourses for CSE courses at IITD.
+This is a collection of assignments and other resourses for ***CSE Courses*** at **IITD**.
 
 <hr>
-
-## Courses
 
 - [*COL106*](col106/) : Data Structures and Algorithms
 - [*COL215*](col215/) : Digital Logic and System Design
@@ -14,4 +10,8 @@ This is a collection of resourses for CSE courses at IITD.
 - [*COL334*](col334/) : Computer Networks
 - [*COP290*](cop290/) : Design Practices
 
+<h3 align="center">
 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Mono&weight=700&size=24&pause=100&color=11eeaa&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)<br>
+
+</h3>

@@ -1,0 +1,212 @@
+Generating matrix: 1 of 1
+Modifying matrix: row->1000, col->1000, range->1024, M->1
+Time taken: 10.30 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->1000, col->1000, range->4096, M->1
+Time taken: 11.74 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->1000, col->1000, range->100000, M->1
+Time taken: 11.86 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->1000, col->1000, range->100000000, M->1
+Time taken: 93.89 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->1000, col->1000, range->1024, M->10
+Time taken: 90.72 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->1000, col->1000, range->4096, M->10
+Time taken: 90.18 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->1000, col->1000, range->100000, M->10
+Time taken: 95.19 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->1000, col->1000, range->100000000, M->10
+Time taken: 912.45 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->10000, range->1024, M->1
+Time taken: 986.84 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->10000, range->4096, M->1
+Time taken: 988.11 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->10000, range->100000, M->1
+Time taken: 984.05 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->10000, range->100000000, M->1
+Time taken: 1123.41 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->10000, col->10000, range->1024, M->10
+Time taken: 8446.91 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->10000, col->10000, range->4096, M->10
+Time taken: 7861.56 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->10000, col->10000, range->100000, M->10
+Time taken: 7916.77 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 10
+Generating matrix: 2 of 10
+Generating matrix: 3 of 10
+Generating matrix: 4 of 10
+Generating matrix: 5 of 10
+Generating matrix: 6 of 10
+Generating matrix: 7 of 10
+Generating matrix: 8 of 10
+Generating matrix: 9 of 10
+Generating matrix: 10 of 10
+Modifying matrix: row->10000, col->10000, range->100000000, M->10
+Time taken: 8778.67 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->100000, range->1024, M->1
+Time taken: 9569.16 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->100000, range->4096, M->1
+Time taken: 7323.67 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->100000, range->100000, M->1
+Time taken: 6933.86 ms
+Checking correctness...
+Test Passed
+
+
+Generating matrix: 1 of 1
+Modifying matrix: row->10000, col->100000, range->100000000, M->1
+Time taken: 7608.47 ms
+Checking correctness...
+Test Passed
+
+
